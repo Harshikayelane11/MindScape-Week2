@@ -1,4 +1,5 @@
-# MindScape-Week2
+# MindScape-Project
+
 I Developed this portfolio Completed website using html, css, javascript.
 ![inner page](https://github.com/Harshikayelane11/MindScape-Week2/assets/126764829/2475ba52-5346-4bb2-88c7-6f9a12c2c034)
 ![outer Page](https://github.com/Harshikayelane11/MindScape-Week2/assets/126764829/58e600b6-ff00-4815-a046-b818ca7e651b)
